@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Jehan Alexis</h1>
 <p align="center">I'm primarily focusing on front-end development, sometimes back-end stuffs.</p>
 
-- PHP Development (Main)
+- Full-stack Developer (LAMP stack)
+- Frontend Development (Main)
 - NodeJS (Discord.JS)
 
 <h1 align="center">Languages:</h1>
