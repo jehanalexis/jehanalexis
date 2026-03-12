@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **frameworks like React, Laravel etc. since i prefer pure coding so i have granular control over security.**
 
-- 📫 How to reach me **littlestines@gmail.com**
+- 📫 How to reach me: **littlestines@gmail.com**
 
-- 📄 Know about my experiences [jehanalexis@pages.dev](jehanalexis@pages.dev)
+- 📄 Know about my experiences: [jehanalexis.pages.dev](jehanalexis.pages.dev)
 
 - ⚡ Fun fact **I don't use frameworks. Cope**
 
