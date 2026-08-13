@@ -9,7 +9,7 @@
 
 📫 How to reach me: **littlestines@gmail.com**
 
-📄 Know about my experiences [here](jehanalexis.pages.dev)
+📄 Know about my experiences [here](https://jehanalexis.pages.dev)
 
 ⚡ **I don't use frameworks. Cope (sorry)**
 
